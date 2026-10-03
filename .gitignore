@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+secrets*
+*.log
+.venv/
+__pycache__/
+dist/
+build/
+.next/
+SUPERVISOR.md
